@@ -1,1 +1,1 @@
-The project from a hackathon
+здесь учитывается только верстка
